@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+.study {
+    margin: 20px;
+    background-color: bisque;
+}
+
+.works {
+    border: solid 3px;
+    border-color: black;
+}
